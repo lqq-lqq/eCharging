@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">eCharging</string>
+    <string name="Search_locate_content">输入城市名或拼音查询</string>
+</resources>
